@@ -10,7 +10,6 @@ import com.wuxw.interfaces.Subject;
 public class ConcreteObserver implements Observer {
 
 	private String observerName;
-	
 	private String weatherContext;
 	private String remindThing;
 	

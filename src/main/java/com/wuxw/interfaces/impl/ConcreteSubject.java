@@ -18,8 +18,4 @@ public class ConcreteSubject extends Subject {
 		this.notifyObservers();
 	}
 	
-	
-	
-
-	
 }
